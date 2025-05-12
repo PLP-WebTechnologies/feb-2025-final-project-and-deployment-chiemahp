@@ -1,25 +1,26 @@
-# Final Project and Deployment
+# AI Health System Website
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+## 🔍 Overview
+This is a responsive, multipage website for an AI-based health prediction system. It includes Home, About, and Contact pages with JavaScript interactivity.
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+## 📁 Pages
+- `index.html`: Home page with system features
+- `about.html`: Explains how the AI system works
+- `contact.html`: Contact form with JS validation
 
-## Tasks
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript (form validation, DOM interaction)
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
+## ✅ Features
+- Responsive design (mobile-friendly)
+- JavaScript form validation
+- Semantic layout with modern styling
 
-Good luck and happy coding! 🚀💻
+## 🚀 Deployment
+Deployed via Github pages.
+
+## 📩 Contact
+For feedback or collaboration, open an issue or use the contact form on the website.
